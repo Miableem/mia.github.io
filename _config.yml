@@ -19,13 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: MiaBleem
-email: wangyiyi1014@163.com
+email: miaranker@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is MiaBleem's site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://miaplus.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  yiyw
+twitter_username: miableem
 
 # Build settings
 theme: minima
